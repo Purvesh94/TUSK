@@ -1,3 +1,3 @@
 # TUSK
-This  is my personal AI assistant 
+This  is my personal AI assistant .
 Author :- Purevsh kolhe
